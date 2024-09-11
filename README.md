@@ -1,5 +1,7 @@
 # godot-template
 
+Godot Engine v4.3.stable.mono.official
+
 ## Requirements
 
 TODO
