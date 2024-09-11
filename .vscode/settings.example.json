@@ -1,0 +1,15 @@
+{
+  // Visual Studio Code
+  // ================================================================
+
+  "editor.formatOnSave": true,
+
+  // godot-tools
+  // https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools
+  // ================================================================
+
+  // The path to the Godot editor executable. Under Mac OS, this is the executable inside of Godot.app.
+  // MacOS: /Applications/Godot_mono-4.3.app/Contents/MacOS/Godot
+  // Windows: TODO: path to Godot executable on Windows
+  "godotTools.editorPath.godot4": "/Applications/Godot_mono-4.3.app/Contents/MacOS/Godot"
+}
